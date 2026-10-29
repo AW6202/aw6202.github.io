@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.aw6202.zenus",
+    "sha256_cert_fingerprints": ["AA:2B:98:5B:45:63:85:4A:9E:BF:58:3B:F2:77:A4:C3:57:85:A1:9C:FC:6F:D0:BF:1A:DF:D0:C5:79:8E:C2:E6"]
+  }
+}]
